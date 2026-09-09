@@ -16,7 +16,7 @@ engineering projects, and professional contact information.
 
 ## Live Website
 
-https://Ifrex247.github.io/personal-portfolio/
+https://ifrex247.github.io/personal-portfolio/
 
 ## Viewing the Project
 
